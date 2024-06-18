@@ -1,0 +1,23 @@
+{
+  "name": "@leafer-editor/canvaskit",
+  "version": "1.0.0-rc.27",
+  "description": "@leafer-editor/canvaskit",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/editor.git"
+  },
+  "homepage": "https://github.com/leaferjs/editor/tree/main/packages/platform/canvaskit",
+  "bugs": "https://github.com/leaferjs/editor/issues",
+  "keywords": [
+    "leafer editor canvaskit",
+    "leafer-editor-canvaskit",
+    "leafer-editor",
+    "leafer-ui",
+    "leaferjs"
+  ]
+}

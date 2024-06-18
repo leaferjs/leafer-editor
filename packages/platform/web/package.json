@@ -1,0 +1,26 @@
+{
+  "name": "@leafer-editor/web",
+  "version": "1.0.0-rc.27",
+  "description": "@leafer-editor/web",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/editor.git"
+  },
+  "homepage": "https://github.com/leaferjs/editor/tree/main/packages/platform/web",
+  "bugs": "https://github.com/leaferjs/editor/issues",
+  "keywords": [
+    "leafer-editor",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "leafer-ui": "1.0.0-rc.27",
+    "@leafer-editor/partner": "1.0.0-rc.27",
+    "@leafer-in/html": "1.0.0-rc.27"
+  }
+}

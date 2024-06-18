@@ -1,0 +1,34 @@
+{
+  "name": "leafer-editor",
+  "version": "1.0.0-rc.27",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "dist/web.esm.js",
+  "unpkg": "dist/web.js",
+  "jsdelivr": "dist/web.js",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/editor.git"
+  },
+  "homepage": "https://github.com/leaferjs/editor",
+  "bugs": "https://github.com/leaferjs/editor/issues",
+  "keywords": [
+    "leafer editor",
+    "leafer-editor",
+    "leaferui",
+    "leafer-ui",
+    "leaferjs",
+    "leafer",
+    "html5",
+    "canvas",
+    "2d",
+    "graphic",
+    "renderer",
+    "engine"
+  ],
+  "dependencies": {
+    "@leafer-editor/web": "1.0.0-rc.27"
+  }
+}
