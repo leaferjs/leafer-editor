@@ -1,6 +1,6 @@
 {
   "name": "@leafer-editor/web",
-  "version": "1.0.0-rc.27",
+  "version": "1.0.0-rc.28",
   "description": "@leafer-editor/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -19,8 +19,8 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.0.0-rc.27",
-    "@leafer-editor/partner": "1.0.0-rc.27",
-    "@leafer-in/html": "1.0.0-rc.27"
+    "leafer-ui": "1.0.0-rc.28",
+    "@leafer-editor/partner": "1.0.0-rc.28",
+    "@leafer-in/html": "1.0.0-rc.28"
   }
 }
