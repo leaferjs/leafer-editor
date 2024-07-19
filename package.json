@@ -1,6 +1,6 @@
 {
   "name": "leafer-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
   "main": "dist/web.esm.js",
@@ -29,12 +29,12 @@
     "engine"
   ],
   "dependencies": {
-    "leafer-ui": "1.0.0",
-    "@leafer-editor/web": "1.0.0",
-    "@leafer-in/editor": "1.0.0",
-    "@leafer-in/view": "1.0.0",
-    "@leafer-in/scroll": "1.0.0",
-    "@leafer-in/arrow": "1.0.0",
-    "@leafer-in/html": "1.0.0"
+    "leafer-ui": "1.0.1",
+    "@leafer-editor/web": "1.0.1",
+    "@leafer-in/editor": "1.0.1",
+    "@leafer-in/view": "1.0.1",
+    "@leafer-in/scroll": "1.0.1",
+    "@leafer-in/arrow": "1.0.1",
+    "@leafer-in/html": "1.0.1"
   }
 }
