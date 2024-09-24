@@ -22,6 +22,7 @@
     "leafer-ui": "1.0.3",
     "@leafer-editor/partner": "1.0.3",
     "@leafer-in/text-editor": "1.0.3",
-    "@leafer-in/html": "1.0.3"
+    "@leafer-in/html": "1.0.3",
+    "@leafer-in/interface": "1.0.3"
   }
 }
