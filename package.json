@@ -18,8 +18,8 @@
     "type": "git",
     "url": "https://github.com/leaferjs/leafer-editor.git"
   },
-  "homepage": "https://github.com/leaferjs/editor",
-  "bugs": "https://github.com/leaferjs/editor/issues",
+  "homepage": "https://github.com/leaferjs/leafer-editor",
+  "bugs": "https://github.com/leaferjs/leafer-editor/issues",
   "keywords": [
     "leafer editor",
     "leafer-editor",
