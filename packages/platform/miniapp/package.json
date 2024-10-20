@@ -1,6 +1,6 @@
 {
   "name": "@leafer-editor/miniapp",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "@leafer-editor/miniapp",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -29,8 +29,8 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-ui/miniapp": "1.0.5",
-    "@leafer-editor/partner": "1.0.5",
-    "@leafer-in/interface": "1.0.5"
+    "@leafer-ui/miniapp": "1.0.6",
+    "@leafer-editor/partner": "1.0.6",
+    "@leafer-in/interface": "1.0.6"
   }
 }
