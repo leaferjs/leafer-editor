@@ -1,6 +1,6 @@
 {
   "name": "@leafer-editor/node",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "@leafer-editor/node",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -29,8 +29,8 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-ui/node": "1.1.0",
-    "@leafer-editor/partner": "1.1.0",
-    "@leafer-in/interface": "1.1.0"
+    "@leafer-ui/node": "1.2.0",
+    "@leafer-editor/partner": "1.2.0",
+    "@leafer-in/interface": "1.2.0"
   }
 }
