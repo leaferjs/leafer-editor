@@ -19,10 +19,10 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.3.3",
-    "@leafer-editor/partner": "1.3.3",
-    "@leafer-in/text-editor": "1.3.3",
-    "@leafer-in/html": "1.3.3",
-    "@leafer-in/interface": "1.3.3"
+    "leafer-ui": "workspace:*",
+    "@leafer-editor/partner": "workspace:*",
+    "@leafer-in/text-editor": "workspace:*",
+    "@leafer-in/html": "workspace:*",
+    "@leafer-in/interface": "workspace:*"
   }
 }
