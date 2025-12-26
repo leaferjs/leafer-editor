@@ -1,6 +1,6 @@
 {
   "name": "@leafer-editor/web",
-  "version": "1.12.1",
+  "version": "1.12.2",
   "description": "@leafer-editor/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -19,12 +19,12 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.12.1",
-    "@leafer-ui/draw": "1.12.1",
-    "@leafer-ui/core": "1.12.1",
-    "@leafer-editor/partner": "1.12.1",
-    "@leafer-in/text-editor": "1.12.1",
-    "@leafer-in/html": "1.12.1",
-    "@leafer-in/interface": "1.12.1"
+    "leafer-ui": "1.12.2",
+    "@leafer-ui/draw": "1.12.2",
+    "@leafer-ui/core": "1.12.2",
+    "@leafer-editor/partner": "1.12.2",
+    "@leafer-in/text-editor": "1.12.2",
+    "@leafer-in/html": "1.12.2",
+    "@leafer-in/interface": "1.12.2"
   }
 }
