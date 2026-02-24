@@ -1,6 +1,6 @@
 {
   "name": "leafer-editor",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
   "type": "module",
@@ -35,21 +35,21 @@
     "engine"
   ],
   "dependencies": {
-    "leafer-ui": "2.0.1",
-    "@leafer-ui/draw": "2.0.1",
-    "@leafer-ui/core": "2.0.1",
-    "@leafer-editor/web": "2.0.1",
-    "@leafer-in/editor": "2.0.1",
-    "@leafer-in/viewport": "2.0.1",
-    "@leafer-in/view": "2.0.1",
-    "@leafer-in/scroll": "2.0.1",
-    "@leafer-in/arrow": "2.0.1",
-    "@leafer-in/find": "2.0.1",
-    "@leafer-in/export": "2.0.1",
-    "@leafer-in/resize": "2.0.1",
-    "@leafer-in/color": "2.0.1",
-    "@leafer-in/text-editor": "2.0.1",
-    "@leafer-in/html": "2.0.1",
-    "@leafer-in/interface": "2.0.1"
+    "leafer-ui": "2.0.2",
+    "@leafer-ui/draw": "2.0.2",
+    "@leafer-ui/core": "2.0.2",
+    "@leafer-editor/web": "2.0.2",
+    "@leafer-in/editor": "2.0.2",
+    "@leafer-in/viewport": "2.0.2",
+    "@leafer-in/view": "2.0.2",
+    "@leafer-in/scroll": "2.0.2",
+    "@leafer-in/arrow": "2.0.2",
+    "@leafer-in/find": "2.0.2",
+    "@leafer-in/export": "2.0.2",
+    "@leafer-in/resize": "2.0.2",
+    "@leafer-in/color": "2.0.2",
+    "@leafer-in/text-editor": "2.0.2",
+    "@leafer-in/html": "2.0.2",
+    "@leafer-in/interface": "2.0.2"
   }
 }
