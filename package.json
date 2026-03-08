@@ -50,6 +50,7 @@
     "@leafer-in/color": "2.0.3",
     "@leafer-in/text-editor": "2.0.3",
     "@leafer-in/html": "2.0.3",
+    "@leafer-in/scale-fixed": "2.0.3",
     "@leafer-in/interface": "2.0.3"
   }
 }

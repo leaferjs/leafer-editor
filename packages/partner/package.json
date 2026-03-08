@@ -26,7 +26,8 @@
     "@leafer-in/find": "2.0.3",
     "@leafer-in/export": "2.0.3",
     "@leafer-in/resize": "2.0.3",
-    "@leafer-in/color": "2.0.3"
+    "@leafer-in/color": "2.0.3",
+    "@leafer-in/scale-fixed": "2.0.3"
   }
 }
 
