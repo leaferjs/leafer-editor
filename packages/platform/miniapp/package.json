@@ -1,6 +1,6 @@
 {
   "name": "@leafer-editor/miniapp",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "description": "@leafer-editor/miniapp",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -29,19 +29,19 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-ui/miniapp": "2.1.9",
-    "@leafer-ui/draw": "2.1.9",
-    "@leafer-ui/core": "2.1.9",
-    "@leafer-editor/partner": "2.1.9",
-    "@leafer-in/editor": "2.1.9",
-    "@leafer-in/viewport": "2.1.9",
-    "@leafer-in/view": "2.1.9",
-    "@leafer-in/scroll": "2.1.9",
-    "@leafer-in/arrow": "2.1.9",
-    "@leafer-in/find": "2.1.9",
-    "@leafer-in/export": "2.1.9",
-    "@leafer-in/resize": "2.1.9",
-    "@leafer-in/color": "2.1.9",
-    "@leafer-in/interface": "2.1.9"
+    "@leafer-ui/miniapp": "2.1.10",
+    "@leafer-ui/draw": "2.1.10",
+    "@leafer-ui/core": "2.1.10",
+    "@leafer-editor/partner": "2.1.10",
+    "@leafer-in/editor": "2.1.10",
+    "@leafer-in/viewport": "2.1.10",
+    "@leafer-in/view": "2.1.10",
+    "@leafer-in/scroll": "2.1.10",
+    "@leafer-in/arrow": "2.1.10",
+    "@leafer-in/find": "2.1.10",
+    "@leafer-in/export": "2.1.10",
+    "@leafer-in/resize": "2.1.10",
+    "@leafer-in/color": "2.1.10",
+    "@leafer-in/interface": "2.1.10"
   }
 }
